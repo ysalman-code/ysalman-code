@@ -1,51 +1,43 @@
- Hi 👋, I'm Salman Raju Yadala
+ <!-- ECE / IoT Banner --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Salman%20Raju%20Yadala&fontSize=45&fontAlignY=40&desc=Embedded%20Systems%20Engineer%20|%20IoT%20Enthusiast%20|%20Final%20Year%20ECE&descAlignY=60" />
+</p><!-- Visitor Counter --><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ysalman-code&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p><!-- Typing Animation --><p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Systems+Engineer;IoT+Developer;ECE+Student;Always+Learning+New+Technologies&center=true&width=700&height=60" />
+</p><!-- Skill Icons --><p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode" />
+</p>---
 
-🎓 Final Year B.Tech ECE Student | Embedded Systems Engineer | IoT Enthusiast
+📊 GitHub Statistics
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Systems+Engineer;IoT+Developer;Electronics+and+Communication+Student;Always+Learning+New+Technologies&center=true&width=500&height=50">---
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysalman-code&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysalman-code&layout=compact" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=ysalman-code" />
+</p>---
 
-🚀 About Me
+🏆 3D Contribution Graph
 
-🎓 Final Year B.Tech Student in Electronics & Communication Engineering (ECE)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysalman-code&theme=github" />
+</p>---
 
-🏫 QIS College of Engineering and Technology
+🐍 Contribution Snake Animation
 
-📅 Graduating in 2027
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>---
 
-🎯 Career Goals:
+🔧 Hardware & IoT Skills
 
-- Embedded Systems Engineer
-- IoT Engineer
-
-🌱 Currently improving my knowledge in:
-
+- Arduino
 - Embedded Systems
-- IoT Applications
 - Microcontrollers
-- Python Programming
-- Web Development
-
----
-
-🛠️ Tech Stack
-
-Programming Languages
-
-"C" (https://img.shields.io/badge/C-Programming-blue)
-"Python" (https://img.shields.io/badge/Python-Programming-yellow)
-
-Web Technologies
-
-"HTML5" (https://img.shields.io/badge/HTML5-Web-orange)
-"CSS3" (https://img.shields.io/badge/CSS3-Styling-blue)
-
-Hardware & IoT
-
-"Arduino" (https://img.shields.io/badge/Arduino-Projects-green)
-"Embedded Systems" (https://img.shields.io/badge/Embedded-Systems-red)
-"Microcontrollers" (https://img.shields.io/badge/Microcontrollers-Learning-success)
-"Proteus" (https://img.shields.io/badge/Proteus-Simulation-blueviolet)
-"IoT" (https://img.shields.io/badge/IoT-Applications-important)
+- Proteus
+- IoT Applications
+- C Programming
+- Python
 
 ---
 
@@ -53,52 +45,28 @@ Hardware & IoT
 
 ⚡ Smart Unauthorized Electricity Theft Detection
 
-A smart monitoring solution designed to detect unauthorized electricity consumption and reduce power theft using embedded technologies and IoT concepts.
-
-Tech Used: Arduino, Embedded Systems, Microcontrollers, IoT
+Arduino-based embedded system for detecting unauthorized electricity consumption and reducing power theft.
 
 🌍 Community Resilience Hub
 
-A platform focused on improving community collaboration, emergency support, and resource management.
-
-Tech Used: HTML, CSS, Python
+Platform for community collaboration, emergency response, and resource management.
 
 ---
 
 📜 Certifications
 
-🏅 EduSkills Certifications
-
-🏅 NPTEL Certifications
-
----
-
-📊 GitHub Statistics
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=ysalman-code&show_icons=true&theme=default)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ysalman-code&layout=compact)
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=ysalman-code)
+- EduSkills
+- NPTEL
 
 ---
 
 🌐 Connect With Me
 
-💼 LinkedIn:
-linkedin.com/in/salman-raju-14b0b7382
-
-💻 GitHub:
-github.com/ysalman-code
+- LinkedIn: linkedin.com/in/salman-raju-14b0b7382
+- GitHub: github.com/ysalman-code
 
 ---
 
-🎯 Career Objective
+✨ Motto
 
-To build innovative Embedded Systems and IoT solutions that solve real-world problems while continuously growing as an engineer and technology professional.
-
----
-
-✨ Personal Motto
-
-"Learn. Build. Innovate. Repeat."
+Learn • Build • Innovate • Repeat
